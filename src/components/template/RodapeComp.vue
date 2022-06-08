@@ -1,3 +1,3 @@
 <template>
-  <footer>OI LARI</footer>
+  <footer>Rodapé</footer>
 </template>

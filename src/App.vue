@@ -12,6 +12,7 @@ import RodapeComp from "./components/template/RodapeComp.vue";
 
 <style>
 @import "@/assets/base.css";
+@import "@/assets/style.css";
 
 #app {
   max-width: 1280px;
@@ -22,21 +23,21 @@ import RodapeComp from "./components/template/RodapeComp.vue";
   font-weight: normal;
 }
 header {
-  background-color: lightcoral;
+  background-color: #383B57;
   color: white;
   height: 15%;
   font-size: 1.3rem;
   display: flex;
 }
 footer {
-  background-color: lightskyblue;
+  background-color: #383B57;
   color: rgb(29, 29, 173);
   height: 5%;
   font-size: 1.3rem;
 }
 main {
   height: 80%;
-  background-color: rgb(228, 186, 186);
+  background-color: #FFFFFF;
   color: black;
 }
 a {
